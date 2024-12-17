@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+      "target": "ES6",                    // Choose a target that aligns with most JS environments.
+      "module": "CommonJS",               // CommonJS or ESNext, depending on how you want the library to be used.
+      "declaration": true,                // Generates `.d.ts` files for TypeScript consumers.
+      "outDir": "./dist",                 // Output directory for compiled files.
+      "resolveJsonModule": true,          // Enables JSON imports if your library includes them.
+      "esModuleInterop": true,            // Ensures compatibility with CommonJS modules.
+      "strict": true,                     // Recommended for robust TypeScript code.
+      "sourceMap": true                   // Include source maps for debugging.
+  },
+  "include": ["src/**/*"],
+  "exclude": ["node_modules", "dist"]
+}
