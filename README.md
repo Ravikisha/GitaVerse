@@ -1,5 +1,8 @@
+![logo](https://ravikisha.github.io/assets/gitaverselogo.png)
 # GitaVerse
 
+<img src="https://img.shields.io/npm/v/gitaverse?style=flat-square" alt="npm version" /> <img src="https://img.shields.io/npm/dt/gitaverse?style=flat-square" alt="npm downloads" /> <img src="https://img.shields.io/github/license/ravikisha/gitaverse?style=flat-square" alt="license" /> <img src="https://img.shields.io/github/issues/ravikisha/gitaverse?style=flat-square" alt="issues" /> <img src="https://img.shields.io/github/forks/ravikisha/gitaverse?style=flat-square" alt="forks" /> <img src="https://img.shields.io/github/stars/ravikisha/gitaverse?style=flat-square" alt="stars" />
+<img src="https://img.shields.io/github/languages/top/ravikisha/gitaverse?style=flat-square" alt="language" /> <img src="https://img.shields.io/github/languages/code-size/ravikisha/gitaverse?style=flat-square" alt="code size" /> <img src="https://img.shields.io/github/last-commit/ravikisha/gitaverse?style=flat-square" alt="last commit" /> <img src="https://img.shields.io/github/contributors/ravikisha/gitaverse?style=flat-square" alt="contributors" /> <img src="https://img.shields.io/github/issues-pr/ravikisha/gitaverse?style=flat-square" alt="pull requests" />
 
 A TypeScript library to access Bhagavad Gita shlokas, translations, and metadata. This library allows developers to fetch chapters, verses, and complete shloka details from the Bhagavad Gita, including the translations and synonyms.
 
