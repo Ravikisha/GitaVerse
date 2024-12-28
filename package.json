@@ -1,5 +1,5 @@
 {
-  "name": "gita",
+  "name": "gitaverse",
   "version": "1.0.0",
   "description": "A TypeScript library to access Bhagavad Gita shlokas, translations, and metadata.",
   "main": "dist/index.js",
@@ -24,11 +24,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/yourusername/gita-library.git"
+    "url": "https://github.com/Ravikisha/GitaVerse.git"
   },
-  "homepage": "https://github.com/yourusername/gita-library#readme",
+  "homepage": "https://github.com/Ravikisha/GitaVerse#readme",
   "bugs": {
-    "url": "https://github.com/yourusername/gita-library/issues"
+    "url": "https://github.com/Ravikisha/GitaVerse/issues"
   },
   "files": [
     "dist",
